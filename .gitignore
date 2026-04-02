@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Ignore all Markdown files except the public README
+*.md
+**/*.md
+!README.md
+!/README.md
